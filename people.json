@@ -1,0 +1,25 @@
+[{
+    "name":"Meek",
+    "age":100,
+    "isEmployed": true
+    
+},
+{
+    "name":"Beyonce",
+    "age":43,
+    "isEmployed": true,
+    "hobbies": ["singing","writing","dancing","business"]
+},
+{
+    "name":"Oprah",
+    "age":60,
+    "isEmployed": true,
+    "hobbies": ["speaking","interviews","conversations","humanitarian"]
+},
+{
+    "name":"Nas",
+    "age":44,
+    "isEmployed": true,
+    "hobbies": ["rapping","writing","performing"]
+}
+]
